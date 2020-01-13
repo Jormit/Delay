@@ -1,2 +1,2 @@
 # Delay
-Simple vst plugin delay implementation.
+Simple vst delay.
